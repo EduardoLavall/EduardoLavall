@@ -24,6 +24,7 @@
 - **PostgreSQL and system integrations**
 - **Python for automation, scraping and data/document processing**
 - **Reproducible development environments with Nix/devenv**
+- **OAuth 2.0 / OpenID Connect authentication with Keycloak**
 - **AI-augmented engineering workflows**
 
 ---
