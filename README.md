@@ -47,6 +47,23 @@ This is the stack and type of engineering I work with most actively today:
 
 ---
 
+## AI-augmented engineering
+
+I also work with **AI-augmented software engineering workflows**, treating AI as part of a structured development process rather than as a replacement for engineering judgment.
+
+My workflow combines:
+
+- **spec-driven development** to define scope, constraints and acceptance criteria before implementation;
+- **multi-agent orchestration** for parallel research, implementation and review tasks;
+- repository-level guidance through **AGENTS.md** and persistent project instructions;
+- reusable **skills** and task-specific tooling to standardize recurring engineering work;
+- structured **backlogs** and issue-style task definitions to keep agent work traceable and scoped;
+- validation through **tests, linting, type checking, code review and manual verification** before changes are accepted.
+
+This approach lets me use AI for faster exploration and execution while keeping architecture, quality standards and final technical decisions under explicit engineering control.
+
+---
+
 ## Tech stack
 
 ### Backend & APIs
@@ -73,6 +90,10 @@ This is the stack and type of engineering I work with most actively today:
 
 `Go testing` `httptest` `unittest` `Vitest` `Biome` `Ruff` `ty` `GitHub Actions`
 
+### AI-assisted development
+
+`Spec-driven development` `Multi-agent workflows` `AGENTS.md` `Reusable skills` `Structured backlogs` `Human review`
+
 ---
 
 ## What I work on
@@ -91,6 +112,7 @@ Some of the technical areas I deal with regularly:
 - Structured logging and operational error handling
 - Automated testing and CI pipelines
 - Reproducible multi-language development environments
+- AI-augmented engineering workflows
 - Refactoring, debugging and modernization of existing systems
 - System integrations across APIs, automation and databases
 
@@ -146,7 +168,7 @@ You can find more of my game projects on **[itch.io](https://eddxp.itch.io/)**.
 
 ## Currently exploring
 
-- 🤖 Local AI agents and developer tooling
+- 🤖 Agentic and AI-augmented software engineering
 - ⚙️ Automation and productivity systems
 - 🧱 Minecraft server/platform engineering
 - 🎮 Game development and game design
