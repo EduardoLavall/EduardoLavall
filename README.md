@@ -26,10 +26,6 @@
 - **Reproducible development environments with Nix/devenv**
 - **AI-augmented engineering workflows**
 
-### AI-augmented engineering
-
-I use structured AI-assisted workflows with **spec-driven development, multi-agent collaboration, reusable skills and project-level instructions**, backed by testing, review and explicit engineering validation.
-
 ---
 
 ## Featured projects
