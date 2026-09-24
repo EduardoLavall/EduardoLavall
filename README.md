@@ -86,14 +86,6 @@ The project supports HTML-to-PDF generation, compression with Ghostscript and a 
 
 ---
 
-### 🎮 [Scopophobia](https://github.com/EduardoLavall/Scopophobia)
-
-A game project built around the theme of social anxiety, exploring how an emotional subject can be represented through gameplay.
-
-Game development is a parallel area where I experiment with prototypes, mechanics and interactive experiences.
-
----
-
 ## Game development 🎮
 
 Game development is one of my main side interests.
