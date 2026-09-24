@@ -29,19 +29,11 @@
 
 ---
 
-## Featured projects
+## Tech I work with
 
-### 🧱 [Minecraft RPG Crossplay Server](https://github.com/EduardoLavall/minecraft-rpg-crossplay-server)
+**Main:** `Go` `React` `TypeScript` `PostgreSQL`
 
-A versioned and reproducible Minecraft Survival/RPG server ecosystem with Java + Bedrock crossplay, local server management tooling and the foundations for a future integrated web platform.
-
-### 🪙 [GranaXP](https://github.com/EduardoLavall/GranaXP)
-
-A gamified personal finance MVP with quests, XP, coins and upgrades, built as an interactive presentation and playable browser demo.
-
-### 📄 [compressorPDF](https://github.com/EduardoLavall/compressorPDF)
-
-A Python/Flask API built around a real business problem: generating and compressing PDFs to reduce storage and transfer overhead.
+**Also:** `Python` `Docker` `Linux` `Nix/devenv`
 
 ---
 
@@ -50,14 +42,6 @@ A Python/Flask API built around a real business problem: generating and compress
 Game development is a parallel area I actively explore through prototypes, game jams, gameplay systems and gamification.
 
 More projects on **[itch.io](https://eddxp.itch.io/)**.
-
----
-
-## Tech I work with
-
-**Main:** `Go` `React` `TypeScript` `PostgreSQL`
-
-**Also:** `Python` `Docker` `Linux` `Nix/devenv`
 
 ---
 
