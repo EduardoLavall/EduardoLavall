@@ -1,63 +1,41 @@
-<h1 align="center">Hi, I'm Eduardo Dias 👋</h1>
+# Eduardo Dias
 
-<p align="center">
-  <strong>Full Stack Developer</strong><br/>
-  Go • React • TypeScript • PostgreSQL
-</p>
+**Full Stack Developer** — Go, React, TypeScript, PostgreSQL
 
-<p align="center">
-  I work across backend development, web applications, system integrations and automation, primarily using Go, React, PostgreSQL and Python — while also exploring game development as a parallel creative space.
-</p>
+I mostly work on backend services, web apps, integrations and automation. Go and React are my day-to-day tools; Python usually comes in for scripting, scraping or data/document processing.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-lavall-dias/">LinkedIn</a> •
-  <a href="https://eduardolavall.github.io/portfolio/">Portfolio</a> •
-  <a href="https://eddxp.itch.io/">itch.io</a>
-</p>
+I also keep game development as a side track — mostly prototypes, game jams, gameplay systems and gamification.
 
----
+[LinkedIn](https://www.linkedin.com/in/eduardo-lavall-dias/) · [Portfolio](https://eduardolavall.github.io/portfolio/) · [itch.io](https://eddxp.itch.io/)
 
-## Current focus
+## What I'm working with
 
-- **Backend development with Go**
-- **React + TypeScript applications**
-- **PostgreSQL and system integrations**
-- **Python for automation, scraping and data/document processing**
-- **Reproducible development environments with Nix/devenv**
-- **OAuth 2.0 / OpenID Connect authentication with Keycloak**
-- **AI-augmented engineering workflows**
+- Go APIs and backend services
+- React + TypeScript interfaces
+- PostgreSQL and system integrations
+- Python automation, scraping and document/data processing
+- OAuth 2.0 / OpenID Connect with Keycloak
+- Nix/devenv for reproducible dev environments
+- AI-assisted workflows with specs, agents and code review
 
----
+## Tech
 
-## Tech I work with
+`Go` `React` `TypeScript` `PostgreSQL` `Python` `Docker` `Linux` `Nix/devenv`
 
-**Main:** `Go` `React` `TypeScript` `PostgreSQL`
+At university: `Java` `Spring Boot` `MySQL`
 
-**Also:** `Python` `Docker` `Linux` `Nix/devenv`
+## Game dev 🎮
 
-**University:** `Java` `Spring Boot` `MySQL`
+Game development is the side of programming I keep coming back to. I like building prototypes, joining game jams and experimenting with systems, progression and UI.
 
----
-
-## Game development 🎮
-
-Game development is a parallel area I actively explore through prototypes, game jams, gameplay systems and gamification.
-
-More projects on **[itch.io](https://eddxp.itch.io/)**.
-
----
+More of that lives on my [itch.io](https://eddxp.itch.io/).
 
 ## Background
 
-Currently studying **Information Systems at UFN — Universidade Franciscana**.
+I'm currently studying **Information Systems at UFN — Universidade Franciscana**.
 
-My professional background includes full-stack development, automation/RPA, APIs, system integrations and internal enterprise platforms.
+My professional background includes full-stack development, automation/RPA, APIs, system integrations and internal tools.
 
----
+## Contact
 
-## Let's connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-lavall-dias/)
-- 🌐 [Portfolio](https://eduardolavall.github.io/portfolio/)
-- 🎮 [itch.io](https://eddxp.itch.io/)
-- 📫 [Email](mailto:eduardolavalldias@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eduardo-lavall-dias/) · [Portfolio](https://eduardolavall.github.io/portfolio/) · [itch.io](https://eddxp.itch.io/) · [Email](mailto:eduardolavalldias@gmail.com)
