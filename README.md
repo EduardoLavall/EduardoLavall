@@ -35,6 +35,8 @@
 
 **Also:** `Python` `Docker` `Linux` `Nix/devenv`
 
+**University:** `Java` `Spring Boot` `MySQL`
+
 ---
 
 ## Game development 🎮
