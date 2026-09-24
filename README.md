@@ -20,37 +20,79 @@
 
 ## About me
 
-I'm a Full Stack Developer with experience building internal platforms, automations, APIs and system integrations.
+I'm a Full Stack Developer working across **backend engineering, frontend applications, automation, data processing, authentication and developer tooling**.
 
-My professional work has included authentication with **Keycloak / OAuth2 / OpenID Connect**, interactive monitoring dashboards, structured logging, web-driven automation, PDF processing and real-time execution monitoring.
+My current work is centered around **Go, React/TypeScript, Python and PostgreSQL**, with a strong focus on building maintainable APIs, data-heavy interfaces, automation workflows and reproducible development environments.
 
-I also have previous experience with **Python automation, RPA, REST API testing, Flask and Laravel**, always with a strong focus on solving real operational problems.
+I also have previous experience with **Python automation, RPA, Flask, Laravel and REST API testing**, always with a strong focus on solving real operational problems.
 
 Alongside professional software development, I keep **game development** as a parallel area of interest through prototypes, game jams and gameplay-focused projects.
 
 ---
 
+## Current professional focus
+
+This is the stack and type of engineering I work with most actively today:
+
+- **Backend:** REST APIs with Go, Gin and SQLX
+- **Frontend:** React, TypeScript, Vite, TanStack Router and TanStack Query
+- **Database:** PostgreSQL, relational modeling, transactions, indexes and versioned migrations
+- **Automation:** Python, Playwright, Camoufox, asyncio and HTTP integrations
+- **Document & data processing:** PDF extraction, table extraction, XLSX workflows and data normalization
+- **Authentication & security:** OAuth 2.0, OpenID Connect, PKCE, JWT and RBAC
+- **Developer environments:** Linux, Nix, Nix Flakes and devenv
+- **Quality & CI:** GitHub Actions, Biome, Ruff, ty, automated tests and static analysis
+- **Operational engineering:** structured logging, retries, backoff, timeouts, health checks and graceful shutdown
+- **Architecture:** modular frontend/backend/automation boundaries, services, repositories, DTOs and reusable integrations
+
+---
+
 ## Tech stack
 
-**Main stack**
+### Backend & APIs
 
-`Go` `TypeScript` `React` `PostgreSQL` `Python`
+`Go` `Gin` `SQLX` `REST APIs` `PostgreSQL` `golang-migrate`
 
-**Backend & integrations**
+### Frontend
 
-`REST APIs` `Flask` `Keycloak` `OAuth2` `OpenID Connect`
+`React` `TypeScript` `Vite` `TanStack Router` `TanStack Query` `Tailwind CSS` `Radix UI` `shadcn/ui` `Zod`
 
-**Frontend**
+### Python & automation
 
-`React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Radix UI`
+`Python` `uv` `Requests` `Pandas` `pdfplumber` `Camelot` `Playwright` `Camoufox` `asyncio`
 
-**Automation & testing**
+### Authentication & security
 
-`Python` `Playwright` `RPA` `Web Scraping`
+`OAuth 2.0` `OpenID Connect` `PKCE` `JWT` `JWKS` `RBAC`
 
-**Tools & environment**
+### Dev environment & tooling
 
-`Git` `GitHub` `Docker` `Linux`
+`Linux` `Nix` `Nix Flakes` `devenv` `pnpm` `Git` `GitHub` `Docker`
+
+### Testing & quality
+
+`Go testing` `httptest` `unittest` `Vitest` `Biome` `Ruff` `ty` `GitHub Actions`
+
+---
+
+## What I work on
+
+Some of the technical areas I deal with regularly:
+
+- REST API design and backend services
+- PostgreSQL queries, transactions and migrations
+- Authentication and authorization flows
+- Responsive, data-heavy web interfaces
+- Browser automation and web scraping
+- PDF and spreadsheet processing
+- Data extraction, validation and normalization
+- Async and concurrent processing
+- File upload, download and processing workflows
+- Structured logging and operational error handling
+- Automated testing and CI pipelines
+- Reproducible multi-language development environments
+- Refactoring, debugging and modernization of existing systems
+- System integrations across APIs, automation and databases
 
 ---
 
