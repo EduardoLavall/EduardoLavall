@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I build backend systems, web applications and automation tools with a focus on maintainable software and real-world problems.
+  I work across backend development, web applications, system integrations and automation, primarily using Go, React, PostgreSQL and Python — while also exploring game development as a parallel creative space.
 </p>
 
 <p align="center">
